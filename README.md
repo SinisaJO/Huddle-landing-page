@@ -5,8 +5,8 @@ This is a solution to the https://www.frontendmentor.io/challenges/huddle-landin
 ## Table of contents
 
   - Huddle landing page(#the-challenge)
-  SS- https://ibb.co/DpZH0SN
-  Live site - https://dazzling-heyrovsky-a96afc.netlify.app/
+  - SS - https://ibb.co/DpZH0SN
+  - Live site - https://dazzling-heyrovsky-a96afc.netlify.app/
   - React JS(#built-with)
   - Styled-components(#what-i-learned)
   - Sinisa Jovanovic(#author)
