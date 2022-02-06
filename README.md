@@ -42,7 +42,6 @@ Components and Props in React.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - https://www.frontendmentor.io/profile/SinisaJO
+- Twitter - https://twitter.com/Djoni_LFC
 
