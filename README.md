@@ -4,13 +4,14 @@ This is a solution to the https://www.frontendmentor.io/challenges/huddle-landin
 
 ## Table of contents
 
-  - Huddle landing page(#the-challenge)
-  - SS - https://ibb.co/DpZH0SN
-  - Live site - https://dazzling-heyrovsky-a96afc.netlify.app/
-  - React JS(#built-with)
-  - Styled-components(#what-i-learned)
-  - Sinisa Jovanovic(#author)
-
+  - The-challenge
+  - Screenshot
+  - Links
+  - Built with
+  - What I learned
+  - Author
+  
+  
 ### The challenge
 
 Users should be able to:
